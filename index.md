@@ -6,8 +6,9 @@ title: Adrian Ilisei's CV
 Web Developer
 
 <div id="webaddress">
-<a href="adrianilisei@icloud.com">adrianilisei@icloud.com</a>
+  <a href="adrianilisei@icloud.com">adrianilisei@icloud.com</a>
 | <a href="https://www.linkedin.com/in/adrianilisei/">My LinkedIn profile</a>
+| <a href="https://facebook.com/adrianilisei/">My Facebook profile</a>
 </div>
 
 
